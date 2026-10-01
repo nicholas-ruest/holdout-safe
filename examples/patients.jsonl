@@ -1,0 +1,8 @@
+{"patient":{"id":"p-001"},"diagnosis":"case","visit":1,"score":0.81}
+{"patient":{"id":"p-001"},"diagnosis":"case","visit":2,"score":0.76}
+{"patient":{"id":"p-002"},"diagnosis":"control","visit":1,"score":0.12}
+{"patient":{"id":"p-003"},"diagnosis":"case","visit":1,"score":0.68}
+{"patient":{"id":"p-004"},"diagnosis":"control","visit":1,"score":0.23}
+{"patient":{"id":"p-005"},"diagnosis":"case","visit":1,"score":0.71}
+{"patient":{"id":"p-006"},"diagnosis":"control","visit":1,"score":0.19}
+{"patient":{"id":"p-006"},"diagnosis":"control","visit":2,"score":0.21}
